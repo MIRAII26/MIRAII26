@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on building softwares and webs
-- 📫 How to reach me--vviragika26@gmail.com
+- 📫 How to reach me=vviragika26@gmail.com
 - ⚡ Fun fact:i dont have any fun facts lol
 
 <!---
